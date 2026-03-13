@@ -15,7 +15,7 @@ st.set_page_config(
     layout="centered",
 )
 
-st.title("🌼 Flower Name & Species Identifier")
+st.title("🌼Galana Boys Flower Name & Species Identifier")
 st.caption("Take a flower photo and let OpenAI identify the flower and its likely species.")
 
 
