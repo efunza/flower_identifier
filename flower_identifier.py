@@ -10,7 +10,7 @@ from openai import OpenAI
 
 
 st.set_page_config(
-    page_title="Flower Name & Species Identifier",
+    page_title="Galana Boys Flower Name & Species Identifier",
     page_icon="🌼",
     layout="centered",
 )
